@@ -6,7 +6,6 @@ import { Link } from 'react-router-dom'
 
 import Chart from 'react-apexcharts'
 
-import { useSelector } from 'react-redux'
 
 import Table from '../component/Table/Table'
 
